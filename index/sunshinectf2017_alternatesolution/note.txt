@@ -1,0 +1,7 @@
+program convert our input to float using atof
+
+then check if < 37.35929
+
+and > 37.35929
+
+so the only input we can use is nan since it stand for not a number that can satify all checks
